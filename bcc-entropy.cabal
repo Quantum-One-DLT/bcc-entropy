@@ -9,7 +9,7 @@ stability:              Experimental
 homepage:               http://github.com/The-Blockchain-Company/bcc-entropy#readme
 bug-reports:            https://github.com/The-Blockchain-Company/bcc-entropy/issues
 author:                 John Ky
-maintainer:             operations@bcccoin.io
+maintainer:             operations@blockchain-company.io
 copyright:              (c) 2021 The-Blockchain-Company
 license:                Apache-2.0
 license-file:           LICENSE
